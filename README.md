@@ -7,7 +7,7 @@ preparing the env.
 ```
 pip install -r requirements.txt
 ```
-traing.
+training.
 ```
 python train.py
 ```
