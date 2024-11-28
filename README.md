@@ -4,16 +4,16 @@ Deep-Learning-Assisted Spectroscopic Single-Molecule Localization Microscopy bas
 
 ## Usage
 preparing the env.
-'''
+```
 pip install -r requirements.txt
-'''
+```
 traing.
-'''
+```
 python train.py
-'''
+```
 testing.
-'''
+```
 python test.py
-'''
+```
 
 
